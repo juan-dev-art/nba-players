@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 1. Download  and install [node.js](https://nodejs.org/en/).
 2. Open command line and install  [Angular CLI](https://github.com/angular/angular-cli) (version 13 or upper).
-3. Decompress nba-players.zip and go to nba-players root folder.
+3. Clone the repository
 4. Open a command line terminal and type npm install to download all project dependencies.
 5. Run `ng serve` or `npm run start` to start the application. Navigate to `http://localhost:4200/` and the application will be shown. 
 6. Enter the value to compare the height and results will be shown. 
